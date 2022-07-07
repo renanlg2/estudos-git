@@ -1,2 +1,3 @@
 Olá, estou estudando Git
 Essa é a segunda linha
+Adicionei a terceira linha
